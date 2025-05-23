@@ -29,7 +29,7 @@
 installed = On
 
 ; The canonical URL to the OJS installation (excluding the trailing slash)
-base_url = "http://localhost/revistaactajudicial"
+base_url = "http://revistaactajudicial.endinahosting.com"
 
 ; Session cookie name
 session_cookie_name = OJSSID
@@ -126,9 +126,9 @@ sitewide_privacy_statement = Off
 
 driver = mysqli
 host = localhost
-username = root
-password = ""
-name = revistaactajudicial
+username = roctorber
+password = DddxL5=75;4$
+name = actajudicial
 
 ; Set the non-standard port and/or socket, if used
 ; port = 3306
@@ -203,7 +203,7 @@ database_charset = utf8
 ; Complete path to directory to store uploaded files
 ; (This directory should not be directly web-accessible)
 ; Windows users should use forward slashes
-files_dir ="C:\xampp\filesojs3213"
+files_dir ="/private/filesojs3213"
 
 ; Path to the directory to store public uploaded files
 ; (This directory should be web-accessible and the specified path
